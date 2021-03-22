@@ -24,7 +24,3 @@ public class Circle extends Square{
 
 }
 
-/*
-	원이 사각형을 상속받는다고요?????
-	오오~~ 놀라운 발상이네요.... 
-*/
